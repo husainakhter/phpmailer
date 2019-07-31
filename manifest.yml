@@ -1,0 +1,5 @@
+---
+applications:
+    - name: husain-personal
+      buildpack: php_buildpack
+      memory: 64M
